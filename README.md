@@ -1,4 +1,4 @@
-# My Expense Tracker 💰 - by Kalpana Sravanthi
+# My Expense Tracker 💰 - by Kalpana Pallapu
 
 A simple Python project to track daily expenses with a pie chart!
 
