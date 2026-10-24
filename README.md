@@ -14,4 +14,4 @@ python expense_tracker.py
 ## Tech Used
 Python, JSON, Matplotlib
 
-Made with ❤️ by Kalpana Sravanthi | Aspiring Python Developer from Kadiri, AP
+Made with ❤️ by Kalpana Pallapu | Aspiring Python Developer from Kadiri, AP
